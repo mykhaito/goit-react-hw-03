@@ -1,0 +1,17 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  margin-bottom: 20px;
+  width: 200px;
+  padding: 40px 30px;
+}
+
+.forminp {
+  margin-bottom: 5px;
+}
+
+.error {
+  color: red;
+  margin-bottom: 5px;
+}

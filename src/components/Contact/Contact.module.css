@@ -1,0 +1,19 @@
+.wrap {
+  border: 1px solid black;
+  margin-bottom: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  width: 250px;
+}
+
+.list {
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.deleteButton {
+  padding: 5px 10px;
+}
